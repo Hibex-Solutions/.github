@@ -1,3 +1,5 @@
+![](https://avatars.githubusercontent.com/u/147951061?s=100)
+
 ## Hibex Solutions
 
 A **Hibex Solutions** é uma empresa focada no desenvolvimento de software.
